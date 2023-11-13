@@ -23,11 +23,7 @@ public class Main {
 	public void test() {
 		System.out.println("Main#test");
         System.out.println("hellow world");
-        System.out.println("hellow git");
-	
-	    new Dog().bark();
 	    
-
 	}
 
 }
