@@ -18,6 +18,9 @@ public class Main {
 	    new Bird().fly();
 	    
 	}
+	public void def () {
+		
+	}
 	
 	//테스트용 메서드
 	public void test() {
