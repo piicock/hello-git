@@ -20,6 +20,10 @@ public class Main {
 	}
 	
 	//테스트용 메서드
+	public void abc () {
+		
+	}
+	
 	public void test() {
 		System.out.println("Main#test");
 		System.out.println("Main#test");
