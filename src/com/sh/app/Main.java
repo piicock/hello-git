@@ -11,7 +11,8 @@ public class Main {
 		//컨 쉬 X : 대문자로 변경해줌
         System.out.println("HELLOW WORLD");
         System.out.println("HELLOW GIT");
-
+        
+        System.out.println("Animal Go");
         new Dog().bark();
 	    new Cat().jump();
 	    new Pig().meat();
