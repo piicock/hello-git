@@ -17,8 +17,11 @@ public class Main {
 	    new Pig().meat();
 	    new Bird().fly();
 	    
-	   
-	    
+	}
+	
+	//테스트용 메서드
+	public void test() {
+		System.out.println("Main#test");
 	}
 
 }
